@@ -4,6 +4,7 @@
 # TODO Features
 # * Jumping
 # * Crouching
+# * Crawling
 # * Leaning
 # * Shoulder look
 # * Going up / sliding down ramps

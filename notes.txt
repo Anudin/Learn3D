@@ -1,0 +1,5 @@
+Inventory system:
+	1x1 and MxN sized items
+	Auto sorting:
+		Optimizing problem for MxN items
+	Full detection including weight
