@@ -1,6 +1,15 @@
 # Adjust speeds to realistic values
 # TODO State management
 
+# TODO Features
+# * Jumping
+# * Crouching
+# * Leaning
+# * Shoulder look
+# * Going up / sliding down ramps
+# * Walking stairs
+# * Climbing ladders
+
 extends KinematicBody
 
 # TODO Centralized position
