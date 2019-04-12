@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="Lern3D"
+config/name="Learn3D"
 run/main_scene="res://main.tscn"
 config/icon="res://icon.png"
 
